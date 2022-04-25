@@ -9,7 +9,7 @@ from dormitory import Dormitory
 from pause import GamePause
 from ending import Ending
 
-#pygame 初始化
+#pygame 初始化  yxtest
 pygame.init()
                     
 #设置主窗口
